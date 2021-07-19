@@ -1,0 +1,11 @@
+rasterio
+pandas
+geopandas
+shapely
+numpy
+cv2
+matplotlib
+
+torch
+glob
+torchvision
